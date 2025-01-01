@@ -5,7 +5,7 @@
 
 This project implements an automated **Traffic Signal Violation Detection System** using machine learning techniques. The system leverages computer vision algorithms, specifically the YOLO (You Only Look Once) framework, for real-time detection of vehicles violating traffic signals. 
 
-![My Banner](images/demo.png)
+![My Banner](images/demo.jpg)
 
 
 ## Key Features
