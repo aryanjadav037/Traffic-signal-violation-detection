@@ -34,7 +34,7 @@ This project implements an automated **Traffic Signal Violation Detection System
 
 2. **Run the Flask app:**
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Contributions
